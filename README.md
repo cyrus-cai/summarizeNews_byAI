@@ -1,7 +1,7 @@
 # summarizeNews_byAI
 
 Using 
-- newspaper3k
+- newspaper 3k
 - OpenAI gpt-3.5-turbo api with function calling
 - Poe api (https://github.com/ading2210/poe-api)
 
