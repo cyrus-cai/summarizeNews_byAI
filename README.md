@@ -6,4 +6,4 @@ Using
 - Poe api (https://github.com/ading2210/poe-api)
 
 To
-Grab & Summarize all the latest news you you specified.
+Grab & Summarize the latest news you specified.
