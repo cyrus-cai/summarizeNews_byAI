@@ -6,4 +6,7 @@ Using
 - Poe api (https://github.com/ading2210/poe-api)
 
 To
-Grab & Summarize the latest news you specified.
+Auto Grab & Select & Summarize the latest news you specified.
+
+![Uploading image.png…]()
+
