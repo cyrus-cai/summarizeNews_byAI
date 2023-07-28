@@ -1,0 +1,1 @@
+# summarizeNews_byAI
